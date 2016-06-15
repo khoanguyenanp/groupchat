@@ -1,0 +1,23 @@
+#wrapper {
+	width: 500px;
+	height: 700px;
+	margin: 0 auto;
+}
+#messages {
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+	overflow: scroll;
+}
+textarea {
+	margin-top: 20px;
+	width: 495px;
+	height: 20px;
+	border: 1px solid black;
+	padding-left: 5px;
+}
+#btn {
+	margin: 10px 0 0 420px;
+	width: 80px;
+	font-size: 15px;
+}

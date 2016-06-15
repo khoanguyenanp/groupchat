@@ -1,0 +1,18 @@
+* Create Folder for Your Project
+* using Terminal to go into your Project Folder
+* type "npm init" to start install your module
+* rename your sever to app.js or server.js
+* type "npm install express ejs body-parser socket.io --save"
+
+
+to set up the server (server.js or app.js):
+
+* var for express
+* var for path
+* var for body-parser
+* var for app (create app with express method)
+* set up your views (target to views folder)
+* set up your route for root (index.ejs page)
+* set up your static path for css/js/.. files
+* set up your route
+* connecting normaly or using socket.
